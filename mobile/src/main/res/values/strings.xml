@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Finsta</string>
+    <string name="action_sign_out">Sing out</string>
+</resources>
